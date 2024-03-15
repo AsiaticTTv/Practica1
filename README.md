@@ -8,7 +8,7 @@
 
 <body>
     <h1>Hola mundo que tal como estamos muchachos</h1>
-    <p>hola todo mi contenido de stream y de <b>Youtube</b>e <b>Twitch</b> edonde podras ver momentos ramdon con todo
+    <p>Hello, how are you, my name is Asiatic, you can find all my stream and video content on <b>Youtube</b><b>Twitch</b> where you can see funny moments in each stream
         <a href="https://www.youtube.com/channel/UCd_zLYHILi23KIxSmeDbTNw"><img src="imagenes/unnamed.jpg" width="10%"></a>
        ven te esperamos
     </p>
@@ -16,8 +16,6 @@
         <a href="https://www.twitch.tv/mrasiatic"><img src="imagenes/blog_og-image.avif"    width="10%"            ></a>
     </p>
 
-
-<a href="site/hola.html">siguiente</a>
 
 <br>    
 </body>
